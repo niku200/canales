@@ -1,0 +1,168 @@
+#EXTM3U
+#KODIPROP:inputstream=inputstream.ffmpeg
+#KODIPROP:http-reconnect=true
+#EXTINF:-1 tvg-id="Simpsonizados.ar" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/media/DqJxFLAXQAARdym.jpg" group-title="SERIES",Simpsonizados
+https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1942184747.m3u8
+#EXTINF:-1 tvg-id="Alf.ar" tvg-language="Spanish" tvg-logo="http://x.playerlatino.live/alf.png" group-title="SERIES",AlfLatino
+https://srv5.zcast.com.br/alf/alf/playlist.m3u8
+#EXTINF:-1 tvg-id="Chavo.ar" tvg-language="Spanish" tvg-logo="https://los40.cl/wp-content/uploads/2020/04/don-ramon-768x403.png" group-title="SERIES",El Chavo del 8
+https://videostreaming.cloudserverlatam.com/elchavoplus/elchavoplus/chunklist_w292718987.m3u8
+#EXTINF:-1 tvg-id="DBZ1.ar" tvg-language="Spanish" tvg-logo="http://castlempire.site:8080/images/9735f9093a038d890b0efdae9bbc7d5f.png" group-title="SERIES",DRAGON BALL Z
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/192444
+#EXTINF:-1 tvg-id="FRIENDS.ar" tvg-language="Spanish" tvg-logo="https://images6.fanpop.com/image/photos/32100000/Joey-joey-tribbiani-32124127-500-375.png" group-title="SERIES",FRIENDS
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/196865
+#EXTINF:-1 tvg-id="TBS.ar" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/74/4b/fhFdorSC_o.png" group-title="SERIES",TBS
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169825
+#EXTINF:-1 tvg-id="SIFY.ar" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/70/8a/O4Hg1k28_o.png" group-title="SERIES",SYFY
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169828
+#EXTINF:-1 tvg-id="STAR.ar" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/72/c4/LNwuvPFZ_o.png" group-title="SERIES",STAR HD
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169815
+#EXTINF:-1 tvg-id="UNIVERSAL.ar" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/b2/20/5eD5BXoq_o.png" group-title="SERIES",STUDIO UNIVERSAL
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169826
+#EXTINF:-1 tvg-id="SPACE.ar" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/db/5f/03Hgos4z_o.png" group-title="SERIES",SPACE HD
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169786
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/ad/e9/zpNgoBB9_o.png" group-title="SERIES",WARNER CHANNEL
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169788
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica.png" group-title="SERIES",CARTOON NETWORKS
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="SERIES",NICK CLASSICS
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AMLnZu83OQ_cRksEn2m-cLWExv8C0wOiXPDJBA4q8iK0=s900-c-k-c0x00ffffff-no-rj" group-title="SERIES",MAGIC RETRO
+https://magicstream.ddns.net:443/magicstream/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="SERIES",BOB ESPONJA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/EJMXqNY.png" group-title="SERIES",RUGRATS
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
+
+
+
+#EXTINF:-1 tvg-id="Marvel.ar" tvg-language="Spanish" tvg-logo="http://castlempire.site:8080/images/a874f7c2dfb36eeba32aa1565d77a36d.png" group-title="PELICULAS",CINEMA MARVEL
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186792
+#EXTINF:-1 tvg-id="CINEMA.ar" tvg-language="Spanish" tvg-logo="http://castlempire.site:8080/images/d99fb1f21d118b0c9ff57a5ce1a56f9a.png" group-title="PELICULAS",CINEMA CLASSICS
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186869
+#EXTINF:-1 tvg-id="MARVELANIMATED.ar" tvg-language="Spanish" tvg-logo="http://castlempire.site:8080/images/49655db3eb38073ff67edadf721cf096.png" group-title="PELICULAS",MARVEL ANIMATED
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186791
+#EXTINF:-1 tvg-id="PIXAR.ar" tvg-language="Spanish" tvg-logo="http://castlempire.site:8080/images/af3dfb88d1d009b57f83580b5f94ec7c.png" group-title="PELICULAS",DISNEY PIXAR
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186784
+#EXTINF:-1 tvg-id="DREAMWORKS.ar" tvg-language="Spanish" tvg-logo="http://castlempire.site:8080/images/9e87cfd246bffddd2fb509a7c45b00df.png" group-title="",DISNEY DREAMWORKS
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186785
+#EXTINF:-1 tvg-id="HBO.ar" tvg-language="Spanish" tvg-logo="https://p4.wallpaperbetter.com/wallpaper/846/910/463/cable-channel-hbo-logo-wallpaper-preview.jpg" group-title="PELICULAS",HBO
+http://vip.hispanotv.org:80/play/cWCbuoVRRfSrcudpIoboUmEy7ngrruyNIZWZIiuWMGI/ts
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/42/33/zSKvofAs_o.png" group-title="PELICULAS",HBO 2
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169799
+#EXTINF:-1 tvg-id="HBO POP.ar" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/f9/f4/2TW7vB6j_o.png" group-title="PELICULAS",HBO POP
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169824
+#EXTINF:-1 tvg-id="HBOPLUS.ar" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/72/94/kAP1dmLX_o.png" group-title="PELICULAS",HBO PLUS
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169822
+#EXTINF:-1 tvg-id="HBO XTREME.ar" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/d2/38/0FtULt6G_o.png" group-title="PELICULAS",HBO XTREME
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169831
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/1c/9d/UVfGEEct_o.png" group-title="PELICULAS",AMC
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169782
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/0c/7b/2uxDrVmy_o.png" group-title="PELICULAS",CINECANAL
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169789
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="BCM.ar" tvg-language="Spanish" tvg-logo="https://i.imgur.com/pNUJ0qM.png" group-title="MUSICA",BEST CABLE MUSIC
+https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
+#EXTINF:-1 tvg-id="EURODANCE.ar" tvg-language="Spanish" tvg-logo="https://3.bp.blogspot.com/-aVUyvrWNyxM/W2-NMYAY24I/AAAAAAAAcSo/VHTyTsFj5IUXT_0535sc-sxlySNTatDKQCLcBGAs/s1600/maxresdefault.jpg" group-title="MUSICA",EURODANCE
+https://eurodance90.catcast.tv/content/36987/index.m3u8
+#EXTINF:-1 tvg-id="REWIND.ar" tvg-language="Spanish" tvg-logo="https://www.mystateline.com/wp-content/uploads/sites/17/2021/08/rewind-tv.jpg" group-title="MUSICA",REWIND
+https://tls-cl.cdnz.cl/rewindtv/live/chunklist_w1911035927.m3u8
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/GijbirXXgwFRgUqwtlJ4bpm3hB_Xpe3xI23TnCOxiK9Xu2MVHhOAOFNm-RDDmLoQ2YqkCYHS1A=s48-c-k-c0x00ffffff-no-rj" group-title="MUSICA",LA 100
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666472865/ei/QAdUY_eVOI7Ahwbs3JiAAQ/ip/20.7.49.85/id/8yvZ1RHBM2g.1/source/yt_live_broadcast/requiressl/yes/tx/24287370/txs/24287370%2C24287371%2C24287372/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAL6sUuTtqCu7pP_C0Heyjit9AjgvjU8QKEfcFK8yYRW1AiAHF4PMzMLlD9BW4yUToFGgeJYX5abHL4tEynmsNaY2bA%3D%3D/file/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="http://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png" group-title="VARIOS",TELEFE NOTICIAS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" group-title="VARIOS",EL 13
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_HLS/El_Trece.m3u8
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://www.livenowfox.com/img/LiveNOW_LOGO_HORIZONTAL_2_COLOR_RGB_002.png" group-title="VARIOS",FOX NEWS
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/471?cb=20211213232008&path-prefix=es" group-title="VARIOS",HISTORY
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel.m3u8
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://www.foromedios.com/uploads/monthly_2019_10/small.1376146781_DiscoveryChannel(2019-).png.70b5ff7a8617765cd9b83c9a385d854e.png" group-title="VARIOS",DISCOVERY
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery.m3u8
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://i.ibb.co/TY16pZX/gh2022log.png" group-title="VARIOS",GRAN HERMANO
+https://siloh.pluto.tv/lilo/production/MaradonaSinCortes/LATAM/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="VARIOS",FBI ARCHIVES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="SERIES",BOB ESPONJA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Elgourmet_2015.svg/revision/latest/scale-to-width-down/200?cb=20191030175859" group-title="VARIOS",EL GOURMET
+https://delivery.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/i213N_VQVyD9cIhh1zRP9OFW60ege6nchMkw4SzEiy6YznGacsKto8GKsFoye12LcV4pskI__w=s88-c-k-c0x00ffffff-no-rj" group-title="VARIOS",CRONICA
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666472845/ei/LQdUY6neDJSthgblw7_oDg/ip/20.7.49.85/id/InSydaLSSlw.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOZ12VLjrL8uNk51IoBk-OjweUjdcYJlsuEfQ3Pealb7AiEA5FXGOLkcQLLMexHA2CeoFHz6mDuO4R8WuGlH7fIKEWc%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT_2vc9G9uQ63H-T7ju-WzsmqbBPyXTw4l-irVbaA=s48-c-k-c0x00ffffff-no-rj" group-title="VARIOS",TELEFE CORDOBA
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666472847/ei/LwdUY4CHFoCC2LYP5NibuA4/ip/20.7.49.85/id/fY6uBJhu-XQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgay16nkUdnd22m6RPxwlEmAnd7bb5V7UZCeyKif1SMxsCIQCXQpjiFYK16y8Js4JXnt0Zz7R20OziR8LSe4jCRZiOOw%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRVONiJPqnYI_ETrMgVqqBLCerU8RXnRRp-xF79LA=s88-c-k-c0x00ffffff-no-rj" group-title="VARIOS",TN
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666472849/ei/MQdUY9HDFY7Ahwbs3JiAAQ/ip/20.7.49.85/id/wHn1_QVoXGM.13/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJXWIICip84KK_5KNFxxl7SlMGsWRUMN_4uB2lCsZ7PMCIQCfK1KE0WVHGehT8OV8OOWcmV09dutmHIqbSd4C-124eQ%3D%3D/file/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/800px-Claro_Sports_logo.svg.png" group-title="DEPORTES",CLARO DEPORTES
+https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://i.ibb.co/Yt3zz8B/4-ESPNPremium.png" group-title="DEPORTES",ESPN PREMIUM
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
+#EXTINF:-1 tvg-id="Foxesports.ar" tvg-language="Spanish" tvg-logo="https://statics.eleconomista.com.ar/2022/02/620c1635d4bc6.jpg" group-title="DEPORTES",FOXsports
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+#EXTINF:-1 tvg-id="PlutoSports.ar" tvg-language="Spanish" tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES",PlutoDeportes
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+#EXTINF:-1 tvg-id="Deportv.ar" tvg-language="Spanish" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title="DEPORTES",DeporTV
+https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1909906624.m3u8
+#EXTINF:-1 tvg-id="TyCSports.ar" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES",TyC Sports
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+#EXTINF:-1 tvg-id="TNTSports.ar" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uvZnsAy.png" group-title="DEPORTES",TNTsports
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+#EXTINF:-1 tvg-id="DTVSPORTS.ar" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-QW63cwmTuxM/YQQEWudGkuI/AAAAAAAAA6I/PE2VgdBPXS4ymeKDUskhY2y8ltzCK9WcQCPcBGAYYCw/s1280/image.png" group-title="DEPORTES",DirectTV SPORTS
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169960
+#EXTINF:-1 tvg-id="ESPN.ar" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/8a/ac/oLDHPbfo_o.png" group-title="DEPORTES",ESPN
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169994
+#EXTINF:-1 tvg-id="ESPN-ARG.ar" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/7a/1a/Kdxo9iHl_o.png" group-title="DEPORTES",ESPN ARG
+http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169967
+
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
