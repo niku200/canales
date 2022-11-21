@@ -1,28 +1,28 @@
 #EXTM3U
-#KODIPROP:inputstream=inputstream.ffmpeg
-#KODIPROP:http-reconnect=true
 #EXTINF:-1 tvg-id="Simpsonizados.ar" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/media/DqJxFLAXQAARdym.jpg" group-title="SERIES",Simpsonizados
-https://srv5.zcast.com.br/simpsons/simpsons/chunklist_w1942184747.m3u8
+http://us1-external-sources.iptvserver.tv:80/live/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/713.m3u8
 #EXTINF:-1 tvg-id="Alf.ar" tvg-language="Spanish" tvg-logo="http://x.playerlatino.live/alf.png" group-title="SERIES",AlfLatino
 https://srv5.zcast.com.br/alf/alf/playlist.m3u8
 #EXTINF:-1 tvg-id="Chavo.ar" tvg-language="Spanish" tvg-logo="https://los40.cl/wp-content/uploads/2020/04/don-ramon-768x403.png" group-title="SERIES",El Chavo del 8
 https://videostreaming.cloudserverlatam.com/elchavoplus/elchavoplus/chunklist_w292718987.m3u8
 #EXTINF:-1 tvg-id="DBZ1.ar" tvg-language="Spanish" tvg-logo="http://castlempire.site:8080/images/9735f9093a038d890b0efdae9bbc7d5f.png" group-title="SERIES",DRAGON BALL Z
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/192444
+https://video-weaver.qro03.hls.ttvnw.net/v1/playlist/CqAE06qE_1GyIkpxfivMF7I3OWzOxQxh69LsoqD0crncLCOuNbcSyNMazrXiL9AiqisDqV36J96mbMGaAHTdqK74IuSWHFhn_TpP01IKfYG3mNqrhVgCxeQiBf20e1rLv4lDV7JK0ZrqbGjURuNSj1Z3dC8rKEqJKb62akR0HfOBwd-SXXdEtgY7_c5pTZK4vdCRIwa6R5rOPjwXVkGGxoiKjnBPH-bfzAWv8lbK6xls7MCr-WoOyYnbP4Xd1TPZZKP5xaJf_rBKX9g-J6q5Ul205vzBs0PuKAE1X9-io3eKWeSGTWdbrwL6FmGehh7FNtF5mmD2Y7e8qyS0O-Kl7ueAMx9pPjaN6kdvIlO-gJ9wy8yIm3mJ9pxVjOdCWVNafwVWpGZG1n1Q2s5TAoryoBzIsSPZk8dRFJxcxLA0p7zbBYxQPtl2pjwILBF-U-m0iwfB9OnJsNU-eWRQgLwoKGkpyYbXbo8hscHGkZrFht77srwJwzL2kftuOE89jmyqPOVn7DjR7POuYIrcmH1aGwkVTXyUpnwMrZ6LSqRU01nVC-cMFFl2bWL4qndBH4tqU6VchN7LmApZG_NTh6sRcW-CNCkwMIqZ20oE8LUf00U08TZPrnaat2GEF91ae8BO-g5Gm32szbi8HzZiMU9X5Mv2qGO4oJEfqKU9-xY3yHFFvE28Hx6mK1Kqjreez_7nzE1_Kc-Tcd2u_K2MvKJba45QpRoMhU_MtQWCn44v27aYIAEqCXVzLWVhc3QtMTDHAw.m3u8
+#EXTINF:-1 tvg-id="SailorMoon.ar" tvg-language="Spanish" tvg-logo="https://i.pinimg.com/736x/5f/45/62/5f456278891f3c73a2af5295a09709ac--moon-logo-sailor-moon-usagi.jpg" group-title="SERIES",Sailor Moon
+http://dnsplay.xyz:80/wtrzkida/vgeC3c57R5/50636
 #EXTINF:-1 tvg-id="FRIENDS.ar" tvg-language="Spanish" tvg-logo="https://images6.fanpop.com/image/photos/32100000/Joey-joey-tribbiani-32124127-500-375.png" group-title="SERIES",FRIENDS
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/196865
+http://castlempire.site:8080/cliente3226/123456/196865
 #EXTINF:-1 tvg-id="TBS.ar" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/74/4b/fhFdorSC_o.png" group-title="SERIES",TBS
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169825
 #EXTINF:-1 tvg-id="SIFY.ar" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/70/8a/O4Hg1k28_o.png" group-title="SERIES",SYFY
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169828
 #EXTINF:-1 tvg-id="STAR.ar" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/72/c4/LNwuvPFZ_o.png" group-title="SERIES",STAR HD
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169815
-#EXTINF:-1 tvg-id="UNIVERSAL.ar" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/b2/20/5eD5BXoq_o.png" group-title="SERIES",STUDIO UNIVERSAL
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169826
+http://8.242.187.233:5800/play/a08v/index.m3u8
+#EXTINF:-1 tvg-id="UNIVERSAL.ar" tvg-language="Spanish" tvg-logo="https://www.freepnglogos.com/uploads/universal-studios-png-logo-/universal-studios-png-logo--1.png" group-title="SERIES",UNIVERSAL
+http://8.242.187.233:5800/play/a0a2/index.m3u8
 #EXTINF:-1 tvg-id="SPACE.ar" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/db/5f/03Hgos4z_o.png" group-title="SERIES",SPACE HD
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169786
 #EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/ad/e9/zpNgoBB9_o.png" group-title="SERIES",WARNER CHANNEL
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169788
+http://8.242.187.233:5800/play/a08w/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://imagenes.gatotv.com/logos/canales/oscuros/cartoon_network_latinoamerica.png" group-title="SERIES",CARTOON NETWORKS
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5ddd7c348520b40009c347e2/colorLogoPNG.png" group-title="SERIES",NICK CLASSICS
@@ -37,15 +37,15 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007
 
 
 #EXTINF:-1 tvg-id="Marvel.ar" tvg-language="Spanish" tvg-logo="http://castlempire.site:8080/images/a874f7c2dfb36eeba32aa1565d77a36d.png" group-title="PELICULAS",CINEMA MARVEL
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186792
+http://MzdyqwDBcN9n874RClgQiS.green.onerunthisway.me/live/sun.php?z=997&u=b507sLQqtu&s=1641218166&id=26655&t=live&f=ts
 #EXTINF:-1 tvg-id="CINEMA.ar" tvg-language="Spanish" tvg-logo="http://castlempire.site:8080/images/d99fb1f21d118b0c9ff57a5ce1a56f9a.png" group-title="PELICULAS",CINEMA CLASSICS
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186869
 #EXTINF:-1 tvg-id="MARVELANIMATED.ar" tvg-language="Spanish" tvg-logo="http://castlempire.site:8080/images/49655db3eb38073ff67edadf721cf096.png" group-title="PELICULAS",MARVEL ANIMATED
 http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186791
 #EXTINF:-1 tvg-id="PIXAR.ar" tvg-language="Spanish" tvg-logo="http://castlempire.site:8080/images/af3dfb88d1d009b57f83580b5f94ec7c.png" group-title="PELICULAS",DISNEY PIXAR
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186784
+http://198.245.53.172:8970/live/KEZWV69DJRQ6/4DQX2G9D4TE9/235957.ts
 #EXTINF:-1 tvg-id="DREAMWORKS.ar" tvg-language="Spanish" tvg-logo="http://castlempire.site:8080/images/9e87cfd246bffddd2fb509a7c45b00df.png" group-title="",DISNEY DREAMWORKS
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/186785
+http://198.245.53.172:8970/live/KEZWV69DJRQ6/4DQX2G9D4TE9/218896.ts
 #EXTINF:-1 tvg-id="HBO.ar" tvg-language="Spanish" tvg-logo="https://p4.wallpaperbetter.com/wallpaper/846/910/463/cable-channel-hbo-logo-wallpaper-preview.jpg" group-title="PELICULAS",HBO
 http://vip.hispanotv.org:80/play/cWCbuoVRRfSrcudpIoboUmEy7ngrruyNIZWZIiuWMGI/ts
 #EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/42/33/zSKvofAs_o.png" group-title="PELICULAS",HBO 2
@@ -92,16 +92,12 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery
 https://siloh.pluto.tv/lilo/production/MaradonaSinCortes/LATAM/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png" group-title="VARIOS",FBI ARCHIVES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png" group-title="SERIES",BOB ESPONJA
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Elgourmet_2015.svg/revision/latest/scale-to-width-down/200?cb=20191030175859" group-title="VARIOS",EL GOURMET
 https://delivery.cdn.rcs.net.ar/mnp/gourmet_hls/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/i213N_VQVyD9cIhh1zRP9OFW60ege6nchMkw4SzEiy6YznGacsKto8GKsFoye12LcV4pskI__w=s88-c-k-c0x00ffffff-no-rj" group-title="VARIOS",CRONICA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666472845/ei/LQdUY6neDJSthgblw7_oDg/ip/20.7.49.85/id/InSydaLSSlw.7/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAOZ12VLjrL8uNk51IoBk-OjweUjdcYJlsuEfQ3Pealb7AiEA5FXGOLkcQLLMexHA2CeoFHz6mDuO4R8WuGlH7fIKEWc%3D/file/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLT_2vc9G9uQ63H-T7ju-WzsmqbBPyXTw4l-irVbaA=s48-c-k-c0x00ffffff-no-rj" group-title="VARIOS",TELEFE CORDOBA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666472847/ei/LwdUY4CHFoCC2LYP5NibuA4/ip/20.7.49.85/id/fY6uBJhu-XQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgay16nkUdnd22m6RPxwlEmAnd7bb5V7UZCeyKif1SMxsCIQCXQpjiFYK16y8Js4JXnt0Zz7R20OziR8LSe4jCRZiOOw%3D%3D/file/index.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cronica/SA_HLS/Cronica.m3u8
 #EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLRVONiJPqnYI_ETrMgVqqBLCerU8RXnRRp-xF79LA=s88-c-k-c0x00ffffff-no-rj" group-title="VARIOS",TN
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1666472849/ei/MQdUY9HDFY7Ahwbs3JiAAQ/ip/20.7.49.85/id/wHn1_QVoXGM.13/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgJXWIICip84KK_5KNFxxl7SlMGsWRUMN_4uB2lCsZ7PMCIQCfK1KE0WVHGehT8OV8OOWcmV09dutmHIqbSd4C-124eQ%3D%3D/file/index.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
 
 
 
@@ -110,23 +106,24 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="https://i.ibb.co/Yt3zz8B/4-ESPNPremium.png" group-title="DEPORTES",ESPN PREMIUM
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
 #EXTINF:-1 tvg-id="Foxesports.ar" tvg-language="Spanish" tvg-logo="https://statics.eleconomista.com.ar/2022/02/620c1635d4bc6.jpg" group-title="DEPORTES",FOXsports
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index_4.m3u8
+http://45.232.210.1:8062/play/a08b/index.m3u8
 #EXTINF:-1 tvg-id="PlutoSports.ar" tvg-language="Spanish" tvg-logo="https://media.istockphoto.com/vectors/argentina-flag-with-soccer-ball-background-vector-id529977489?k=20&m=529977489&s=170667a&w=0&h=9syx6_Bbox6Qb_IvmKcbV8ajCqyXfyG6CgfYAf_4c2w=" group-title="DEPORTES",PlutoDeportes
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 #EXTINF:-1 tvg-id="Deportv.ar" tvg-language="Spanish" tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/deportv.png" group-title="DEPORTES",DeporTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w1909906624.m3u8
 #EXTINF:-1 tvg-id="TyCSports.ar" tvg-language="Spanish" tvg-logo="https://pbs.twimg.com/profile_images/1571906658581856258/_Yrzet08_400x400.jpg" group-title="DEPORTES",TyC Sports
-https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8
 #EXTINF:-1 tvg-id="TNTSports.ar" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uvZnsAy.png" group-title="DEPORTES",TNTsports
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+http://panel.sockettv.online:80/live/ROLANDO01/ROLANDO01/166174.m3u8
 #EXTINF:-1 tvg-id="DTVSPORTS.ar" tvg-language="Spanish" tvg-logo="https://1.bp.blogspot.com/-QW63cwmTuxM/YQQEWudGkuI/AAAAAAAAA6I/PE2VgdBPXS4ymeKDUskhY2y8ltzCK9WcQCPcBGAYYCw/s1280/image.png" group-title="DEPORTES",DirectTV SPORTS
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169960
+http://alfa.7057460.xyz:2095/live/alrial17/riosali17/7813.m3u8
 #EXTINF:-1 tvg-id="ESPN.ar" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/8a/ac/oLDHPbfo_o.png" group-title="DEPORTES",ESPN
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169994
+http://8.242.187.233:5800/play/a0bq/index.m3u8
 #EXTINF:-1 tvg-id="ESPN-ARG.ar" tvg-language="Spanish" tvg-logo="https://images2.imgbox.com/7a/1a/Kdxo9iHl_o.png" group-title="DEPORTES",ESPN ARG
-http://castlempire.site:8080/akira97/DBZg6ZumSAWU/169967
+http://190.61.102.67:31589/play/a064/index.m3u8
+#EXTINF:-1 tvg-id="TVPublicaHD.ar" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQylk1Pg1iz872BeKPel5iEkdEGbXFV4-_c2x0n=s88-c-k-c0x00ffffff-no-rj" group-title="Argentina", TV PUBLICA 2 
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1669050362/ei/mlt7Y42NKYSmigSHyb-IAg/ip/13.84.160.248/id/wNxtGKZHKMQ.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAM5-QGjOEv727jsqXMXc11ruHhm0vDt2RoD0tXj6MjmGAiEAqwP2rTnUuuAApldiYVEWzypysEHYXGD9I0fQzQnta9E%3D/file/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
 #EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
 #EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
 #EXTINF:-1 tvg-id="" tvg-language="Spanish" tvg-logo="" group-title="",
